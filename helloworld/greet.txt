@@ -1,0 +1,7 @@
+Hello world!!
+next line
+appending the next lineappending the next lineappending the next line
+appending the next line
+appending the next line
+now writing it in file: sum of 1st: 9 and 2nd: 8 is 17
+now writing it in file: sum of 1st: 7 and 2nd: 23 is 30
